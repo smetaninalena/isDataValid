@@ -1,0 +1,24 @@
+{
+  "name": "isdatavalid",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript library for data validation.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smetaninalena/isDataValid.git"
+  },
+  "keywords": [
+    "validation",
+    "data"
+  ],
+  "author": "smetaninalena",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.24.0",
+    "moment": "^2.29.1"
+  }
+}
